@@ -1,8 +1,8 @@
 ### Hi there, 
 
-I'm Alvaro, game developer, freelance software developer, Computer Science graduate. 
+I'm Alvaro, Computer Science graduate, game developer, and freelance software developer.  
 
-I'm available for remote freelance work; check my portfolio! 
+I'm available for remote work; check my portfolio! 
 
 https://alvarogonzalezferrer.github.io/
 
